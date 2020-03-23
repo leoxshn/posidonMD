@@ -1,0 +1,19 @@
+tabTitle = posidonMD test
+title = This is the test document for the posidonMD compiler
+author = Leo Shneyderis
+keywords = test, text, parser, compiler
+
+@body:
+plain gibberish: |gibberish text|
+*bold* gibberish: *|gibberish text|*
+_italic_ gibberish: _|gibberish text|_
+*_bold italic_* gibberish: *_|gibberish text|_*
+_*italic bold*_ gibberish: _*|gibberish text|*_
+
+quotes: "give us your money"
+
+[link text](https://posidon.io)
+[*link bold text*](https://posidon.io)
+[bold link text](https://posidon.io)
+[*_link bold italic text_*](https://posidon.io)
+[_*link italic bold text*_](https://posidon.io)
