@@ -1,4 +1,6 @@
 # posidonMD
+![kotlin_percentage](https://img.shields.io/badge/kotlin-26%25-6779F6)
+
 A special custom version of markdown.
 
 Supports code highlighting for Kotlin.
